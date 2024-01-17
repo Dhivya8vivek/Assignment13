@@ -1,1 +1,3 @@
-Hello !! Created the sample file to check clone,fetch and pull difference
+Hello !! Created the sample file to check clone,fetch and pull difference.
+Test
+Fetch
